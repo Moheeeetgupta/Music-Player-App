@@ -1,5 +1,5 @@
 # Music-Player-App
-# Animations App
+
 ---
 ### A Simple music player android app which plays music
 ---
